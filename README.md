@@ -1,16 +1,42 @@
-## Hi there 👋
+# 김유신
 
-<!--
-**kimyusin027/kimyusin027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **게임 개발자 지망생**  
+📍 서울, 대한민국  
+📧 이메일: kimyousin0207@naver.com 
+🌐 GitHub: [github.com/yourusername](https://github.com/kimyusin027)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 학력
+
+- **창동고등학교** (2017 ~ 2020)  
+- **동양미래대학교** (2021 ~ 재학 중)
+
+---
+
+## 💼 경력 및 활동
+
+- **전공 작품 동아리 CAN**
+  - 회장 (2024 ~ 2025)
+
+- **졸업 작품 게임 개발 프로젝트**
+  - 팀장, 총괄 기획 및 개발 담당 (2025 ~ 진행 중)
+
+---
+
+## 🛠️ Tech Stacks
+
+- Unity, Unreal Engine
+- C#, C++
+- Git, GitHub
+- python
+- Java
+
+
+## 🌱 목표
+
+> 게임 개발,기획을 담당하고 싶고 많은 사람들이 즐겁게 플레이할수 있는 게임을 개발하는 것이 목표입니다.
+> 팀 프로젝트에서 팀장 및 동아리 회장을 역임하며 다양한 경험을 통해 협업 능력과 리더십을 키우고 있습니다.
+
+---
+
