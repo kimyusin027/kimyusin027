@@ -3,7 +3,7 @@
 🎮 **게임 개발자 지망생**  
 📍 서울, 대한민국  
 📧 이메일: kimyousin0207@naver.com 
-🌐 GitHub: [github.com/yourusername](https://github.com/kimyusin027)
+🌐 GitHub: https://github.com/kimyusin027
 
 ---
 
